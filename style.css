@@ -8,7 +8,7 @@
 }
 
 body {
-  background-image: url('assets/back.avif');
+  background-image: url('back.avif');
   background-size: cover; /* Make the image cover the entire screen */
   background-position: center center; /* Center the image */
   background-repeat: no-repeat; /* Prevent the image from repeating */
@@ -349,7 +349,7 @@ section {
 
 article {
   display: flex;
-  width: 10rem;
+  width: 8rem;
   justify-content: space-around;
   gap: 0.5rem;
 }
